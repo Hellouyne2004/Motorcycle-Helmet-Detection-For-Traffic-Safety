@@ -38,7 +38,7 @@ Pipeline của hệ thống được chia thành các bước rõ ràng trong th
 4. Mở Jupyter Notebook / JupyterLab và chạy tuần tự từ `step2` đến `step6`.
 
 ## 👥 Nhóm Tác giả (Authors)
-**Nhóm 12 - Giữa kỳ Computer Vision** (Trường Đại học Công nghiệp TP.HCM - IUH)
+**Nhóm 12 - Computer Vision** (Trường Đại học Công nghiệp TP.HCM - IUH)
 - Trương Long Tỷ
 - Nguyễn Thái Uy
 - Trần Anh Tuấn
